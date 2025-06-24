@@ -1,3 +1,4 @@
+⚠️ This project was paused due to Prisma installation issues. I’m now rebuilding it using Prisma in a Next.js context in a new repo.
 # DevTrack Monorepo
 
 This repository contains both the frontend (Next.js) and backend (NestJS) applications for DevTrack.
